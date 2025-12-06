@@ -3,6 +3,9 @@
  * Author: Gustavo Torres
  *
  * Rules:
+ *  - BlackJackCore - Personal project by Gustavo Torres
+ *  - Copyright (c) 2025 Gustavo Torres. All rights reserved.
+ *  - This code is for educational and portfolio purposes only.
  *  - 6- or 8-deck shoe (selectable from menu)
  *  - American hole-card blackjack (dealer peeks for blackjack)
  *  - Dealer hits soft 17
