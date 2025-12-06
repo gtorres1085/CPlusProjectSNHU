@@ -1,0 +1,10 @@
+Copyright (c) 2025 Gustavo Torres
+
+All rights reserved.
+
+This software and its source code are the exclusive property of Gustavo Torres.
+Unauthorized copying, modification, distribution, or use of this software, 
+via any medium, is strictly prohibited without the prior written permission 
+of the author.
+
+This project is provided for personal, educational, and portfolio purposes only.

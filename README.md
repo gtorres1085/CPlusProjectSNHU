@@ -205,6 +205,10 @@ A complete, console-based blackjack game that follows realistic American casino 
 
 \- `main.cpp`
 
+\*\*This project is licensed under an All Rights Reserved license.
+See the LICENSE file for details.\*\*
+
+
 
 
 ---
